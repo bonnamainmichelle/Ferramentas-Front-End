@@ -44,3 +44,25 @@
 <a href="https://www.canva.com/" target="_blank">Canva</a><br />
 <a href="https://www.figma.com/" target="_blank">Figma</a><br />
 <a href="https://www.photopea.com/" target="_blank">Photopea</a><br />
+
+<hr />
+<h2>Gravação</h2>
+<a href="https://obsproject.com/pt-br/download" target="_blank">OBS Streaming</a
+><br />
+
+<hr />
+<h2>Terminal</h2>
+<a href="https://hyper.is/" target="_blank">Hyper</a><br />
+
+<hr />
+<h2>Api</h2>
+<a href="https://insomnia.rest/download" target="_blank">Insomnia</a><br />
+<a href="https://www.postman.com/api-platform/api-testing/" target="_blank"
+  >Postman</a
+><br />
+
+<hr />
+<h2>Editor texto</h2>
+<a href="https://notepad-plus-plus.org/downloads/" target="_blank">Notepad ++</a
+><br />
+<a href="https://www.notion.so/pt-br" target="_blank">Notion</a><br />
